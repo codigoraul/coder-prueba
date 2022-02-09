@@ -213,7 +213,7 @@ p
         grid-template-columns: repeat( 2, 1fr);
         grid-template-rows: repeat( 2, 15rem);
         gap: 2.4rem;git
-    }""
+    }
 
 }
 
